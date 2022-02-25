@@ -16,5 +16,4 @@ public class OBJ_Door extends SuperObject{
         }
         collision = true;
     }
-
 }
